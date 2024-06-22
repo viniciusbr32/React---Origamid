@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Noticia from './Noticia';
 
 const Noticias = ({ noticias }) => {
